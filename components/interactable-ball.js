@@ -1,6 +1,6 @@
 
 function inject_createInteractiveBall() {
-				
+	console.log("Injecting interactive ball");			
 	//Query assets in order to setup template
 	let assets = document.querySelector("a-assets");
 	// create a new template variable
